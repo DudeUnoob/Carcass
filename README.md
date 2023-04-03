@@ -20,7 +20,7 @@ About This:
 <h2>
 
 <h2>Technology Used for the Computer Programmers: </h2>
-
+<p><i>Yes this was made from scratch</i></p>
 <ul>
 
 <li>

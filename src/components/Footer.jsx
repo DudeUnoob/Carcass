@@ -33,6 +33,7 @@ const Footer = () => {
             <a href="">License</a>
             <a href="">All Versions</a> */}
             <a>Created by <a href="https://github.com/dudeunoob" target="_blank"><b>@Dom</b></a></a>
+            <a href="https://github.com/DudeUnoob/Carcass" target="_blank" style={{color:"skyblue"}}>Source Code</a>
           </div>
           <div>
             <h4>Community</h4>
@@ -41,7 +42,7 @@ const Footer = () => {
               <i className="fa fa-github" style={{fontSize:"36px"}}></i>
               </a> */}
             <a href="">Issues</a>
-            <a href="https://github.com/DudeUnoob/Carcass" target="_blank">Source Code</a>
+            <a href="">Project</a>
             <a href="">Twitter</a>
           </div>
           <div>
