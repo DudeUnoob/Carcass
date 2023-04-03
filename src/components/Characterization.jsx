@@ -9,7 +9,7 @@ const Characterization = () => {
   return (
     <>
       <div className="destination" id="destination">
-        <h1>Characterization</h1>
+        <h1>Character</h1>
         <p>These are some of the main criteria and analysis of Caesar</p>
         <CharacterizationData
           className="first-des"
