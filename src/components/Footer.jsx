@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="top">
           <div>
             <h1>Carcass</h1>
-            <p>An english project (For the nerds: Created with React JS using React Router DOM, Vite Build Tool, Vercel, and DALL-E 2 for the AI image generation)</p>
+            <p>An english project (For the nerds: Created with React JS using React Router DOM, Vite Build Tool, Vercel, and DALL-E 2 AI image generation)</p>
           </div>
           <div>
             <a href="https://www.linkedin.com/in/damodar-kamani-a7204123a/" target="_blank">
@@ -41,7 +41,7 @@ const Footer = () => {
               <i className="fa fa-github" style={{fontSize:"36px"}}></i>
               </a> */}
             <a href="">Issues</a>
-            <a href="">Project</a>
+            <a href="https://github.com/DudeUnoob/Carcass" target="_blank">Source Code</a>
             <a href="">Twitter</a>
           </div>
           <div>
