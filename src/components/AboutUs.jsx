@@ -23,18 +23,29 @@ function AboutUs() {
 
       <h1>Our Vision</h1>
       <p>
-        To sow the seeds of par-excellence services with customer centric
-        approach and reap the trust of worldwide clients.
+        I chose this character analysis of Caesar because it holds a great signficance to understanding the complexities of the play and central themes.
+        His multi-dimentional character embodies ambition, power, pride, and tragedy. Through this character, Shaespeare is able to explore the dynamics of his leadership
+        as well as the consequences of his ambition and fragility of too much power. Caesar's actions and motiviations are the leading cause to driving the plot of the play, shaping
+        the destiny of other characters and ultimately leading to his downfall. Readers are able to gain an insight into his personality, flaws, and choices providing a rich foundation
+        to analyze his events and themes of the play. This also allows us to explore his relationships with other characters such as Brutus, Cassius, and Mark Antony.
       </p>
-      <h1>Our History</h1>
+      <h1>Our History and connection to the Present</h1>
       <p>
+        The character analysis holds relevance connection to a modern-day, historical, and literary examples as Caesar's character
+        still reflects human traits of ambition, power, and pride still prevalent in contemporary society. The consequences of his actions
+        and the themes in the play, such as unchecked ambition resonate in modern times. For example, in politics and leadership, the pursuit of 
+        power and ambition has far reaching consequences such as the reign of Hitler. These historical figures and dictators who have risen
+        to power through ambition and manipulatino have faced tragic consequences paralleling that of Caesar's character. 
+        In literature, we can see characters of similar traits like Macbeth in Shakespeare work or "Houst of Cards" of Frank Underwood's TV series.
+        <br />
+        <br />
         Carcass is owned and managed by Dom .In Pvt. Ltd., a leading brand in
         web designing services and e-commerce solutions. Carcass .In Pvt. Ltd. is
-        counted for its expertise in web solutions and its top ranking business
-        portals. Our invincible expertise and rich experience has raised our
+        counted for its expertise in caesar and its top ranking analysis. Our invincible expertise and rich experience has raised our
         spirit to reach ahead from our client's expectation. Commendable success
         rate of other portals managed by Carcass is a live paradigm of our work
         excellence.
+        
       </p>
     </div>
   );
