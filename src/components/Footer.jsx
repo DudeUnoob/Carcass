@@ -33,7 +33,7 @@ const Footer = () => {
             <a href="">License</a>
             <a href="">All Versions</a> */}
             <a>Created by <a href="https://github.com/dudeunoob" target="_blank"><b>@Dom</b></a></a>
-            <a href="https://github.com/DudeUnoob/Carcass" target="_blank" style={{color:"skyblue"}}>Source Code</a>
+            <a href="https://github.com/DudeUnoob/Carcass" target="_blank" style={{color:"skyblue"}} id="source-code">Source Code</a>
           </div>
           <div>
             <h4>Community</h4>

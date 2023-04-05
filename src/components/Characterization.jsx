@@ -4,6 +4,9 @@ import React from "react";
 // import Mountain3 from "../assets/5.jpg";
 // import Mountain4 from "../assets/8.jpg";
 import CharacterizationData from "./CharacterizationData";
+import Caesar4 from "../assets/caesar_4.jpg"
+import Caesar5 from "../assets/caesar_5.jpg"
+import Caesar6 from "../assets/caesar_6.jpg"
 
 const Characterization = () => {
   return (
@@ -43,7 +46,8 @@ const Characterization = () => {
           his true people leading to his tragic downfall
           "
           //img1={Mountain3}
-          img1={"https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc4NjAyNzE2MjI2ODg5/gettyimages-587489068-2.jpg"}
+          //img1={"https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc4NjAyNzE2MjI2ODg5/gettyimages-587489068-2.jpg"}
+          img1={Caesar6}
           //img2={Mountain4}
           img2={"https://www.historytoday.com/sites/default/files/reviews/deathofbrutus.jpg"}
         />
