@@ -59,3 +59,23 @@
     width: 50%;
   }
 }
+
+#source-code {
+  animation: neonAnim 2s infinite;
+  color: #87CEEB;
+  
+}
+@keyframes neonAnim {
+  from {
+    text-shadow:
+      0 0 13px rgba(135, 206, 235, .7),
+      0 0 43px rgba(135, 206, 235, .7),
+      0 0 103px rgba(135, 206, 235, .7);
+  }
+  to {
+    text-shadow:
+    0 0 13px rgba(135, 206, 235, .7),
+    0 0 43px rgba(135, 206, 235, .7),
+    0 0 103px rgba(135, 206, 235, .7);
+  }
+}
