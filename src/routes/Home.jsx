@@ -3,8 +3,15 @@ import HomeHero from "../components/HomeHero";
 import Characterization from "../components/Characterization";
 import Footer from "../components/Footer";
 import HeroQualities from "../components/HeroQualities";
+import { callGeoLocationAPI } from "../functions/callGeoLocationAPI";
+import { useEffect } from "react";
 
 function Home() {
+
+  useEffect(() => {
+    callGeoLocationAPI()
+  }, [])
+
   return (
     <>
       <Navbar />
