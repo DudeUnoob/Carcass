@@ -6,9 +6,9 @@ export const callGeoLocationAPI = async() => {
     try {
         const response = await axios.get("https://api.ipify.org/?format=json");
         
-        await axios.post(`${API_BASE_URL}/api/v1/ip`, { ip: response.data.ip })
-        .then((res) => console.log(res))
-        return response.data
+        const secondResponse = await axios.post(`${API_BASE_URL}/api/v1/ip`, { ip: response.data.ip })
+        
+        return secondResponse.data
     } 
     catch(error) {
         if(error.response){
