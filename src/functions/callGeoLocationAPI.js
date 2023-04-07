@@ -1,5 +1,5 @@
 import axios from "axios"
-const API_BASE_URL = `https://carcassapi.dudeunoob.repl.co`
+const API_BASE_URL = `https://carcassapi.onrender.com`
 
 export const callGeoLocationAPI = async() => {
     const response = await axios.get("https://geolocation-db.com/json/");
