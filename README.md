@@ -30,6 +30,12 @@ About This:
 <a href="https://reactrouter.com/en/main" target="_blank">React Router Dom</a>
 </li>
 <li>
+HTML
+</li>
+<li>
+CSS
+</li>
+<li>
 <a href="https://openai.com/product/dall-e-2" target="_blank">
 Dall-E 2 (Artificial Intelligence Image Generation)
 </a>
