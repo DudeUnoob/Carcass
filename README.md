@@ -19,6 +19,15 @@ About This:
 <a href="mailto:techdomprogramming@gmail.com">Email me</a>
 <h2>
 
+<h2>Credits</h2>
+<p>Thank you for these websites for image credits</p>
+
+<ul>
+    <li><a href="https://stock.adobe.com/promo/firstmonthfree?gclid=Cj0KCQjwocShBhCOARIsAFVYq0ihGAgf-QiJ-Tnpx0tYQo_546467hX7yBkcznvwU_Y1rqlOAllmNXMaAgSsEALw_wcB&ef_id=Cj0KCQjwocShBhCOARIsAFVYq0ihGAgf-QiJ-Tnpx0tYQo_546467hX7yBkcznvwU_Y1rqlOAllmNXMaAgSsEALw_wcB:G:s&s_kwcid=AL!3085!3!646642325984!e!!g!!adobe%20stock!284119129!16998447409&as_channel=sem&as_campclass=brand&as_campaign=US|CPRO|Stock|PURCH|AS_Brand_Exact|GG||&as_source=google&as_camptype=acquisition&sdid=KQPCU&mv=search&as_audience=core">Adobe Stock Images</a></li>
+    <li><a href="https://unsplash.com/">Unsplash</a></li>
+    <li><a href="https://www.historytoday.com/">History Today</a></li>
+</ul>
+
 <h2>Technology Used for the Computer Programmers: </h2>
 <p><i>Yes this was made from scratch</i></p>
 <ul>
@@ -46,3 +55,5 @@ Vercel (Deployment and Production Build)
 </a>
 </li>
 </ul>
+
+
