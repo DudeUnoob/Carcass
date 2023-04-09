@@ -9,7 +9,8 @@
 <h2>
 About This:
 </h2>
-<p>Created for my English Project a Character Analysis of Julius Caesar, thank you Mr.Ostrovsky! Made this website for scratch with every process really be enjoyable and fun because this is what I love doing and find as a hobby (learning code and doing code). Implementing a smooth and responsive design while learning build aspects for this creative process was amazing. </p>
+<p>
+Welcome to Carcass – an English project that provides a comprehensive character analysis of Julius Caesar. In this project, you will delve into the fascinating world of one of the most renowned figures in ancient history and explore the various facets of his character. Made this website for scratch with every process really be enjoyable and fun because this is what I love doing and find as a hobby (learning code and doing code). Implementing a smooth and responsive design while learning build aspects for this creative process was amazing. Thank you Mr.Ostrovsky!</p>
 
 <br />
 
