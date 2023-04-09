@@ -57,7 +57,6 @@ Welcome to Carcass – an English project that provides a comprehensive characte
 <a href="https://reactrouter.com/en/main" target="_blank">React Router Dom</a>
 </li>
 <li>
-<li>
 <a href="https://vitejs.dev/">Vite - Build Tool</a>
 </li>
 HTML
