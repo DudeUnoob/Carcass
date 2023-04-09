@@ -7,6 +7,7 @@ import CharacterizationData from "./CharacterizationData";
 import Caesar4 from "../assets/caesar_4.jpg"
 import Caesar5 from "../assets/caesar_5.jpg"
 import Caesar6 from "../assets/caesar_6.jpg"
+import MarkAntony1 from "../assets/mark_antony_1.png"
 
 const Characterization = () => {
   return (
@@ -38,12 +39,26 @@ const Characterization = () => {
 
         <CharacterizationData
           className="first-des-reverse"
+          heading="Manipulative"
+          text={"Caesar uses flattery to manipulate Antony into being loyal to him: \"When Caesar says 'Do this,' it is performed. / Set on; and leave no ceremony out.\" \
+          (Act 1, Scene 2, Lines 193-197). \
+          Another Instance is when Caesar is able to use his oratory skills to try to persuade and sway the crowd at his funeral, even though he's dead: \
+          \"Friends, Romans, countrymen, lend me your ears; I come to bury Caesar, not to praise him. The evil that men do lives after them; The good is oft interred with their bones; So let it be with Caesar.\" (Act 3, Scene 1, Lines 222-229)" 
+          }
+          //img1={Mountain3}
+          //img1={"https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc4NjAyNzE2MjI2ODg5/gettyimages-587489068-2.jpg"}
+          img1={MarkAntony1}
+          //img2={Mountain4}
+          img2={"https://t3.ftcdn.net/jpg/03/62/02/98/240_F_362029878_DhDXrt6JyBmK8ZFIXl8RAJjinThSWp8a.jpg"}
+        />
+        <CharacterizationData
+          className="first-des"
           heading="Tragic Flaw"
           text="We can analyze his tragic flaw in Act 3 Scene 1 when Caesar
           enters the Senate and is greeted by his conspirators. Despite warnings from his friend Brutus, 
           Caesar responds with a town of arrogance and disbelief exclaiming 'Et tu, Brute?' where Caesar has the 
           inability to recognize the true nature of his enemies while misplacing his trust around
-          his true people leading to his tragic downfall
+          his true people leading to his tragic downfall.
           "
           //img1={Mountain3}
           //img1={"https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3ODc4NjAyNzE2MjI2ODg5/gettyimages-587489068-2.jpg"}
