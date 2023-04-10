@@ -30,7 +30,7 @@ class Navbar extends Component {
               </li>
             );
           })}
-          <button onClick={() => window.location.href = '/signup'}>Sign Up</button>
+          {/* <button onClick={() => window.location.href = '/signup'}>Sign Up</button> */}
         </ul>
       </nav>
     );
