@@ -6,7 +6,7 @@ export const callGeoLocationAPI = async() => {
     try {
         
         
-        const secondResponse = await axios.post(`${API_BASE_URL}/api/v1/ip`, { ip: response.data }, {
+        const secondResponse = await axios.post(`https://carcassapi.onrender.com/api/v1/ip`, { ip: response.data }, {
             headers:{
                 "Content-Type":"application/json"
             }
@@ -19,7 +19,7 @@ export const callGeoLocationAPI = async() => {
         try{
             const response = await axios.get("https://geolocation-db.com/json/");
 
-            const faultTolerantThirdResponse = await axios.post(`https://carcassapi.onrender.com/api/v1/ip`, { ip: response.data }, {
+            const faultTolerantThirdResponse = await axios.post(`${API_BASE_URL}/api/v1/ip`, { ip: response.data }, {
                 headers:{
                     "Content-Type":"application/json"
                 }
